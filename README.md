@@ -22,7 +22,7 @@ The guest OS is a Linux (Lubuntu) 64-bit; make sure to assign at least 2 Gb of m
 
 ## Further config
 
-You might want to fine-tune the config for your guest OS according to the host machine. Click on `Settings`. At least, consider enabling bidirectional copy-and-paste between the two OS's, as shonw in the picture below.
+You might want to fine-tune the config for your guest OS according to the host machine. Click on `Settings`. At least, consider enabling bidirectional copy-and-paste between the two OS's, as shown in the picture below.
 ![](./img/vb3.png)
 
 ## Run
