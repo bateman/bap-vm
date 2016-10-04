@@ -29,6 +29,7 @@ You might want to fine-tune the config for your guest OS according to the host m
 
 Simply click the green arrow `Start` to run the guest OS.
 
+
 ## Other info
 Automatic login is set at startup. User credentials are the following:
 ```
@@ -37,4 +38,11 @@ Passowrd: osboxes.org
 ```
 These will be necessary for executing administrive (root) changes.
 
+## Guest Additions (optional)
+
+Should your screen size be quite small, it means that you need to install the Guest Additions. Mount the ISO as shown in the picture below. Then, open terminal and browse to the mount location, which will be something like `/media/osboxes/VBOXADDITIONS_5.1.6_110634/` (note that the version may vary).
+
+![](./img/vb4.jpg)
+
+Now, simply run `sudo ./VBoxLinuxAdditions.run` and reboot the guest OS.
 
