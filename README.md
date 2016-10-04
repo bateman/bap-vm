@@ -34,7 +34,7 @@ Simply click the green arrow `Start` to run the guest OS.
 Automatic login is set at startup. User credentials are the following:
 ```
 Username: osboxes
-Passowrd: osboxes.org
+Password: osboxes.org
 ```
 These will be necessary for executing administrive (root) changes.
 
