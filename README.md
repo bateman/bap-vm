@@ -1,5 +1,5 @@
 # bap-vm
-Virtual Machines for bap-seminar repo
+Virtual Machine for [Best-Answer Prediction seminar]https://github.com/bateman/bap-seminar
 
 ## Download VirtualBox
 Download the installer and extension pack for your OS from https://www.virtualbox.org/wiki/Downloads
@@ -10,7 +10,7 @@ $ brew tap caskroom/cask
 $ brew cask install virtualbox virtualbox-extension-pack
 ```
 ## Download the VM image
-Get the VDI image from [here](./vdi/lubuntu-bap-vm.vdi).
+Get the (compressed) VDI image from [here](https://dl.dropboxusercontent.com/u/420195/bap-vm/Lubuntu%2016.04%20%2864bit%29.zip).
 
 ## Import VM into VirtualBox
 
