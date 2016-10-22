@@ -10,7 +10,9 @@ $ brew tap caskroom/cask
 $ brew cask install virtualbox virtualbox-extension-pack
 ```
 ## Download the VM image
-Get the (compressed) VDI image from [here](https://dl.dropboxusercontent.com/u/420195/bap-vm/Lubuntu%2016.04%20%2864bit%29.zip).
+The Virtual Box image is based on Lubuntu 16.04 LTS Xenial Xerus (64 bit), obtained from [osboxes.org](http://www.osboxes.org/virtualbox-images/). Download the (compressed) VDI image from [here](https://dl.dropboxusercontent.com/u/420195/bap-vm/Lubuntu%2016.04%20%2864bit%29.zip) ([mirror1](https://drive.google.com/file/d/0BysNFCrz-obAUGRnRGdGdFNBVEE/view?usp=sharing)).
+
+ If your CPU is not able to run a 64 bit guest OS, download a 32 bit Virtualb Box image from [osboxes.org](http://www.osboxes.org/virtualbox-images/) (or also from [virtualboxes.org](https://virtualboxes.org/images/)). Feel free to pick your distribution of choice, although minor adjustments may be needed as this guide is assumed to work as is with Debian and Ubuntu derivatives. Follow the rest of the guide, then read [this](https://github.com/bateman/bap-seminar) to set up the work enviroment.
 
 ## Import VM into VirtualBox
 
