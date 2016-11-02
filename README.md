@@ -15,14 +15,17 @@ The Virtual Box image is based on Lubuntu 16.04 LTS Xenial Xerus, obtained from 
 ## Import VM into VirtualBox
 
 Click `New` to create a new instance for the guest OS, then press the `Expert Mode` button.
+
 ![](./img/vb1.png)
 
 The guest OS is a Linux (Lubuntu): pleae, select 64 or 32 bit, depending on your host machine architecture; also, make sure to assign at least 2 Gb of memory. Finally, brose the location on your hard-drive where you stored the VDI file.
+
 ![](./img/vb2.png)
 
 ## Further config
 
 You might want to fine-tune the config for your guest OS according to the host machine. Click on `Settings`. At least, consider enabling bidirectional copy-and-paste between the two OS's, as shown in the picture below.
+
 ![](./img/vb3.png)
 
 ## Run
