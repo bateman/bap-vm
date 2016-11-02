@@ -1,5 +1,5 @@
 # bap-vm
-Virtual Machine for [Best-Answer Prediction seminar]https://github.com/bateman/bap-seminar
+Virtual Machine for [Best-Answer Prediction seminar](https://github.com/bateman/bap-seminar)
 
 ## Download VirtualBox
 Download the installer and extension pack for your OS from https://www.virtualbox.org/wiki/Downloads
